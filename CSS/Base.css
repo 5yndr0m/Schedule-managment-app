@@ -1,0 +1,48 @@
+body{
+    background-color: lavender;  
+    
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h1{
+    font: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    background-color: bisque;
+    border-radius: 9px;
+    padding: 25px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    box-shadow: 3px 3px 5px black ;
+
+}
+
+button{
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: aliceblue;
+    box-shadow: 2px 2px 4px black;
+
+}
+
+button:hover{
+    font-size: 100%;
+    width: 30%;
+}
+
