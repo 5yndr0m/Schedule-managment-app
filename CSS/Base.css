@@ -25,7 +25,10 @@ div{
     width: fit-content;
     height: fit-content;
     box-shadow: 3px 3px 5px black ;
+}
 
+#log{
+    width: 200px;
 }
 
 button{
@@ -43,6 +46,4 @@ button{
 
 button:hover{
     font-size: 100%;
-    width: 30%;
 }
-
