@@ -85,6 +85,29 @@ main{
     margin-bottom: 1%;
     margin-left: 5%;
 }
+
+#availablesub{
+    background-color:  hsl(0, 0%, 70%);
+    float: right;
+    padding-block: 5px;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 8px;
+    overflow: scroll;
+}
+
+.sub{
+    background-color: lightblue;
+    padding-block: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
 #add{
     background-color: blueviolet;
     padding-block: 5px;
